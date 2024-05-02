@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARPITLA", "CSHARPITLA.csproj", "{CEE03EA0-916E-465F-9D06-0289FF1F5D0E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica-1", "Practica-1", "{A6C375AA-73B8-409F-9F9B-D403E3239738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEE03EA0-916E-465F-9D06-0289FF1F5D0E} = {A6C375AA-73B8-409F-9F9B-D403E3239738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C494BF9A-CEF6-44BA-8A6C-2AB6489007A9}
