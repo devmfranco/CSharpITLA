@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSHARPITLA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ffad0688b196c60b9b2786530ad2a6602f5751d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSHARPITLA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSHARPITLA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

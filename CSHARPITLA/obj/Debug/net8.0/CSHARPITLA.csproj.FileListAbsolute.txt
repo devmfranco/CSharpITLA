@@ -1,0 +1,15 @@
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\bin\Debug\net8.0\CSHARPITLA.exe
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\bin\Debug\net8.0\CSHARPITLA.deps.json
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\bin\Debug\net8.0\CSHARPITLA.runtimeconfig.json
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\bin\Debug\net8.0\CSHARPITLA.dll
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\bin\Debug\net8.0\CSHARPITLA.pdb
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.AssemblyInfoInputs.cache
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.AssemblyInfo.cs
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.csproj.CoreCompileInputs.cache
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.sourcelink.json
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.dll
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\refint\CSHARPITLA.dll
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.pdb
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\CSHARPITLA.genruntimeconfig.cache
+C:\Csharp-Itla\CSharpITLA\CSHARPITLA\obj\Debug\net8.0\ref\CSHARPITLA.dll
